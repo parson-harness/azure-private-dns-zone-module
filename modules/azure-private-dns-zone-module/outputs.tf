@@ -8,7 +8,7 @@ output "dns_zone_name" {
   description = "The name of the Private DNS Zone"
 }
 output "module_version" {
-  value       = "v1.0.4"
+  value       = "v1.0.5"
   description = "The version of the module in use"
 }
 
