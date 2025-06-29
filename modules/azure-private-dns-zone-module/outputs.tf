@@ -11,3 +11,8 @@ output "module_version" {
   value       = "v1.0.4"
   description = "The version of the module in use"
 }
+
+output "module_name" {
+  value = "azure-private-dns-zone"
+  description = "The name of this module"
+}
